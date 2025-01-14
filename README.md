@@ -1,7 +1,9 @@
 # Product Form Automation
 
 This project automates the process of filling out product forms using `pyautogui` for GUI interaction. It extracts data from a CSV file and uses predefined image templates to input the data into a web-based form, simulating mouse clicks and keyboard presses.
+## Preview
 
+![preview](preview.gif)
 ## Features
 
 - Automates form filling based on product data.
