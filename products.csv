@@ -1,0 +1,6 @@
+code,brand,type,category,price,cost,notes
+P001,Samsung,Smartphone,Eletronicos,1200.50,800,"Modelo Galaxy S21"
+P002,LG,Televisao,Eletronicos,2500.00,1800,"Smart TV OLED 55 polegadas"
+P003,Apple,Notebook,Informática,7500.99,5000,"MacBook Air M2"
+P004,Nike,Tenis,Vestuario,399.99,250,"Modelo Air Max 2023"
+P005,Ford,Carro,Automoveis,35000.00,30000,"Modelo Fiesta 2022"
